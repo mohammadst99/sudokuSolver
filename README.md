@@ -20,7 +20,7 @@ notice! = if you are using macbook m1 you also need ( tensorflow-macos, tensorfl
 
  sample 2
  
-![](https://github.com/mohammadst99/sudokuSolver/blob/main/test/test1.png)
+![](https://github.com/mohammadst99/sudokuSolver/blob/main/test/test2.png)
 
 
 # Code explain 
